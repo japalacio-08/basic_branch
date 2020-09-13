@@ -3,4 +3,4 @@ def sum x,y
 end
 
 
-p sum(5,1)
+p sum(5,"hgh")
